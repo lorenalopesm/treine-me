@@ -7,7 +7,7 @@ Projeto desenvolvido no curso Explorer da Rocketseat, muito parecido com anterio
 
 
 
-[🔗Clique aqui para acessar](httpd://lorenalopesm.github.io/treine-me)
+[🔗Clique aqui para acessar](https://lorenalopesm.github.io/treine-me)
 
 
 
